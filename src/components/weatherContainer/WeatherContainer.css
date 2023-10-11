@@ -1,0 +1,22 @@
+#background{
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+    height: 99vh;
+    width: 100%;
+}
+
+#weather{
+    max-width: 90vw;
+    background-color: white;
+}
+
+.cursor_pointer:hover{
+    cursor: pointer;
+    color: rgb(49, 134, 220);
+}
+
+#weather_days_container{
+    max-height: 250px;
+    overflow-y: scroll;
+}
