@@ -11,3 +11,7 @@ per lo sviluppo sono state utilizzate le seguenti tecnologie:
 - Bootstrap
 - Fontawesome
 - OpenWeather API ( ricerca coordinte e previsioni meteo)
+
+# Visualizzare progetto
+
+Per poter visualizzare il progetto è necessario ottenere la propia Api Key sul sito https://openweathermap.org/ 
